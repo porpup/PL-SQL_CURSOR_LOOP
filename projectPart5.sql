@@ -6,7 +6,7 @@ FROM
     dual;
 
 /* Question 1 : 
-Run script 7northwoods.
+Run script 7Northwoods.
 Using cursor to display many rows of data, create a procedure to display the all 
 the rows of table term.  */
 connect des03/des03
@@ -45,7 +45,7 @@ exec L5Q1
 
 
 /* Question 2 : 
-Run script 7clearwater.
+Run script 7Clearwater.
 Using cursor to display many rows of data, create a procedure to display the 
 following data from the database: Item description, price, color, and quantity on 
 hand. */
@@ -94,7 +94,7 @@ exec L5Q2
 
 
 /* Question 3 : 
-Run script 7clearwater.
+Run script 7Clearwater.
 Using cursor to update many rows of data, create a procedure that accepts a 
 number represent the percentage increase in price. The procedure will display the 
 old price, new price and update the database with the new price. */
